@@ -27,7 +27,7 @@ Machine learning methods can be used to predict drop coalescence, which is the p
 
 ## Dataset 
 All datasets for this project are listed in: https://github.com/vickie02736/dscvae-for-drop-coalescence/tree/main/dataset 
-* the experimental data can be available upon reasonable request to Dr. Nina Kovalchuk
+* the experimental data can be available upon reasonable request to Dr. Nina Kovalchuk (n.kovalchuk@bham.ac.uk)
 
 ## Implementation
 ### Dataset processing
